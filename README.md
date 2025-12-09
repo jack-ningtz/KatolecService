@@ -4,4 +4,4 @@
 ## 系统的理解
 ###  系统贯穿产品从物料到成品出库的整个周期过程。多部门协同整合资源，精细化管理，优化作业流程，实时同步数据，提高系统效率，降本增效（虽然我一直提高品质，质量才是企业的根本）。
 
-![Home](https://github.com/jack-ningtz/KatolecService/Service.png)  
+!([系统框架](https://github.com/jack-ningtz/KatolecService/blob/main/Service.png))  
